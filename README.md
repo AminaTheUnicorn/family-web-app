@@ -2,7 +2,7 @@
 
 ## Overview
 
-InnerCirle is a web app that allows users to create a account where they can keep and store all their tasks for the family. The user is authenticated using passport-jwt and their passwords hashed using bcyrpt. This allows the user to have their personal information secured to a mongo database. After logging in they are able to creating tasks.
+InnerCirle is a web app that allows users to create a account where they can keep and store all their tasks for the family. The user is authenticated using passport-jwt and their passwords hashed using bcyrpt. This allows the user to have their personal information secured to a mongo database. After logging in they are able to start creating tasks.
 
 ## Technology Used
 -	React jsx
